@@ -1,0 +1,24 @@
+body {
+    background-color: #004aFF; /* Warna biru tua */
+    font-family: Arial, sans-serif; /* Jenis font */
+    color: #FFFFFF; /* Warna teks putih */
+}
+
+.kartu {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:black;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.kartu img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #FFFFFF; /* Border putih */
+    margin-bottom: 10px;
+}
